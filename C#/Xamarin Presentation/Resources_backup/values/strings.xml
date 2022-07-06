@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xamarin_Presentation</string>
+    <string name="placeholder">~</string>
+    <string name="submit_data">Submit data</string>
+</resources>

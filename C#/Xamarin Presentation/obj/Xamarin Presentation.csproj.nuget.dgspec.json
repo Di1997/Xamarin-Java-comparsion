@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dicae\\OneDrive\\Desktop\\My stuff\\Work\\Upload to Git\\C#\\Xamarin Presentation\\Xamarin Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dicae\\OneDrive\\Desktop\\My stuff\\Work\\Upload to Git\\C#\\Xamarin Presentation\\Xamarin Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dicae\\OneDrive\\Desktop\\My stuff\\Work\\Upload to Git\\C#\\Xamarin Presentation\\Xamarin Presentation.csproj",
+        "projectName": "Xamarin Presentation",
+        "projectPath": "C:\\Users\\dicae\\OneDrive\\Desktop\\My stuff\\Work\\Upload to Git\\C#\\Xamarin Presentation\\Xamarin Presentation.csproj",
+        "packagesPath": "C:\\Users\\dicae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dicae\\OneDrive\\Desktop\\My stuff\\Work\\Upload to Git\\C#\\Xamarin Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dicae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

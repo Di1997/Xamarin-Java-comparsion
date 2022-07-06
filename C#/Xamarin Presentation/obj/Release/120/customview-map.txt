@@ -1,0 +1,40 @@
+{http://schemas.android.com/aapt}attr;obj\Release\120\res\drawable-v24\ic_launcher_foreground.xml
+adaptive-icon;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Release\120\res\layout\activity_edit.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Release\120\res\layout\activity_main.xml
+background;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Release\120\res\layout\activity_edit.xml
+Button;obj\Release\120\res\layout\button_layout.xml
+cache-path;C:\Users\dicae\OneDrive\Desktop\My stuff\Work\Upload to Git\C#\Xamarin Presentation\obj\Release\120\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cloud-backup;obj\Release\120\res\xml\data_extraction_rules.xml
+color;obj\Release\120\res\values\colors.xml
+data-extraction-rules;obj\Release\120\res\xml\data_extraction_rules.xml
+EditText;obj\Release\120\res\layout\activity_edit.xml
+external-cache-path;C:\Users\dicae\OneDrive\Desktop\My stuff\Work\Upload to Git\C#\Xamarin Presentation\obj\Release\120\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\dicae\OneDrive\Desktop\My stuff\Work\Upload to Git\C#\Xamarin Presentation\obj\Release\120\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Release\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+full-backup-content;obj\Release\120\res\xml\backup_rules.xml
+gradient;obj\Release\120\res\drawable-v24\ic_launcher_foreground.xml
+item;obj\Release\120\res\drawable-v24\ic_launcher_foreground.xml
+item;obj\Release\120\res\values\styles.xml
+item;obj\Release\120\res\values\themes.xml
+item;obj\Release\120\res\values-night\themes.xml
+ListView;obj\Release\120\res\layout\activity_main.xml
+path;obj\Release\120\res\drawable\ic_launcher_background.xml
+path;obj\Release\120\res\drawable-v24\ic_launcher_foreground.xml
+paths;C:\Users\dicae\OneDrive\Desktop\My stuff\Work\Upload to Git\C#\Xamarin Presentation\obj\Release\120\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Release\120\res\layout\button_layout.xml
+resources;obj\Release\120\res\values\colors.xml
+resources;obj\Release\120\res\values\strings.xml
+resources;obj\Release\120\res\values\styles.xml
+resources;obj\Release\120\res\values\themes.xml
+resources;obj\Release\120\res\values-night\themes.xml
+string;obj\Release\120\res\values\strings.xml
+style;obj\Release\120\res\values\styles.xml
+style;obj\Release\120\res\values\themes.xml
+style;obj\Release\120\res\values-night\themes.xml
+vector;obj\Release\120\res\drawable\ic_launcher_background.xml
+vector;obj\Release\120\res\drawable-v24\ic_launcher_foreground.xml
